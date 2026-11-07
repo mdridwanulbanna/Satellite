@@ -1,0 +1,18 @@
+{
+  "title": "L3 SST reliability and its association with forecast skill: analysis code, results and analysis plan (northern Bay of Bengal)",
+  "upload_type": "software",
+  "version": "2026-10-13f",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "description": "<p>Analysis code, result tables and the prespecified analysis plan (with Amendment 1 and its run log) for the study 'Monsoon-Stratified Reliability of Level-3 Satellite Sea Surface Temperature and Its Association With Forecast Skill at Coastal Stations of the Northern Bay of Bengal'. The code evaluates three Level-3 infrared SST products (MetOp-B AVHRR, MODIS Aqua and MODIS Terra; 2018-2020) at seven coastal and island stations of Bangladesh by monsoon phase, runs a rolling-origin hindcast of one-month-ahead SST (2015-2024), and tests whether satellite data support is associated with forecast error. The input data are public and are not included. Code: MIT License; results tables and analysis plan: CC BY 4.0. The frozen plan PDF used for Step 6, stage 2 has SHA-256 08f1d348fcf92a30a5fe98c879dd25fbf74162420c054c65742db0a98ebad04e.</p>",
+  "creators": [
+    {"name": "Rifat, Md. Ridwanul Banna", "affiliation": "Department of Oceanography, University of Chittagong", "orcid": "0009-0002-0653-5041"},
+    {"name": "Uddin, Mohammad Muslem", "affiliation": "Satellite Ocean Observation & Data Innovation Center, University of Chittagong"},
+    {"name": "Farzin, Nishat Anjum", "affiliation": "Department of Oceanography, University of Chittagong"}
+  ],
+  "keywords": ["sea surface temperature", "Level-3 satellite SST", "Bay of Bengal", "monsoon", "forecast verification", "analysis uncertainty", "SARIMA", "LSTM"],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.23055838", "relation": "references", "scheme": "doi", "resource_type": "software"}
+  ]
+}

@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+xarray
+netCDF4
+h5netcdf
+matplotlib
+statsmodels
+tensorflow
+copernicusmarine
+requests
+siphon
+earthaccess
