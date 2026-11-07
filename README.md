@@ -63,4 +63,6 @@ Citation details for the code are in `CITATION.cff`.
 
 MIT (see `LICENSE`).
 
-**Archive:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+## Archive
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
