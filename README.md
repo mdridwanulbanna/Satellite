@@ -7,8 +7,6 @@ Analysis code, frozen analysis plan and run log for two manuscripts on satellite
 
 Authors: Md. Ridwanul Banna Rifat, Mohammad Muslem Uddin, Nishat Anjum Farzin. Department of Oceanography, Faculty of Marine Sciences and Fisheries, University of Chittagong, Chattogram 4331, Bangladesh.
 
-**Archive:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-
 ## What is in this repository
 
 | Step | Script | Purpose |
@@ -59,8 +57,10 @@ Python 3 with xarray, pandas, NumPy, SciPy, statsmodels, TensorFlow and Matplotl
 
 ## Citation
 
-Citation details for the code are in CITATION.cff.
+Citation details for the code are in `CITATION.cff`. 
 
 ## License
 
-MIT (See `LICENSE`).
+MIT (see `LICENSE`).
+
+**Archive:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
