@@ -1,7 +1,6 @@
 # NBoB satellite SST reliability and forecast skill: analysis code
 
-MS thesis, Department of Oceanography, University of Chittagong.
-Station coordinates and the LSTM set-up are taken unchanged from Manuscript 1 so that
+Station coordinates and the LSTM set-up are taken unchanged from (Rifat et al. 2026) so that
 all results are comparable with the published forecasting work.
 
 ## Install
