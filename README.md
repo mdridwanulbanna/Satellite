@@ -59,7 +59,7 @@ Python 3 with xarray, pandas, NumPy, SciPy, statsmodels, TensorFlow and Matplotl
 
 ## Citation
 
-If you use this code, please cite the Zenodo archive (https://doi.org/10.5281/zenodo.XXXXXXX) and the two manuscripts above.
+Citation details for the code are in CITATION.cff.
 
 ## License
 
