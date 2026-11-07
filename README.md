@@ -63,8 +63,4 @@ Citation details for the code are in CITATION.cff.
 
 ## License
 
-Add a `LICENSE` file before publishing the repository. The MIT License is a common choice for analysis code.
-
-## Contact
-
-Md. Ridwanul Banna Rifat, mdridwanulbanna@gmail.com, ORCID https://orcid.org/0009-0002-0653-5041
+MIT (See `LICENSE`).
