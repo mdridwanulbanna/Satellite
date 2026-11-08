@@ -1,4 +1,4 @@
-# SST reliability and forecast skill in the northern Bay of Bengal
+# L3 SST reliability and forecast skill in the northern Bay of Bengal
 
 Analysis code, frozen analysis plan and run log for two manuscripts on satellite sea surface temperature (SST) along the Bangladesh coast:
   
