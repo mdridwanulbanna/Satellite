@@ -1,12 +1,12 @@
 08f1d348fcf92a30a5fe98c879dd25fbf74162420c054c65742db0a98ebad04e  Analysis_plan_v1.0_with_Amendment1_2026-10-13c_frozen.pdf
 7c47d20b0647cdc2f40a6ef30eb427f02dd718e7f9ed7b8589078e2f98e38f71  Analysis_plan_v1.0_with_Amendment1_2026-10-17.pdf
 
-**Manuscript 1** (mentioned in analysis plan pdfs)
+**Manuscript 1** (mentioned in the analysis plan documents)
 
 > Rifat, M.R.B., Uddin, M.M., Farzin, N.A. *Station-specific long short-term memory models for forecasting sea surface
 > temperature along the Bangladesh coast: development, validation, and cross-station performance.* (under review)
 
-**Manuscript 2** (mentioned in analysis plan pdfs)
+**Manuscript 2** (mentioned in the analysis plan documents)
 
 > Li, H., Zhang, L., Zhang, X., Al-Mulla, Y., Uddin, M. M., Mao, Z., Mao, Z., Huang, H. *A multi-dimensional evaluation and scenario-based 
 > recommendation framework for multi-source Level-3 infrared SST products.* (under review)
