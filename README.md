@@ -1,11 +1,16 @@
 # SST reliability and forecast skill in the northern Bay of Bengal
 
 Analysis code, frozen analysis plan and run log for two manuscripts on satellite sea surface temperature (SST) along the Bangladesh coast:
+  
+**Paper 1** (accuracy, availability and consistency of three Level-3 products, 2018–2020)
 
-1. **Monsoon-Stratified and Diurnal Reliability of Level-3 Satellite Sea Surface Temperature Products in the Northern Bay of Bengal** (accuracy, availability and consistency of three Level-3 products, 2018–2020).
-2. **Multi-Model Hindcast Skill of Coastal Sea Surface Temperature Along the Bangladesh Coast and Its Association with Satellite Data Support** (four one-month-ahead methods, rolling origin 2015–2024, and two association tests).
+> Rifat, M.R.B., Uddin, M.M., Farzin, N.A. *Monsoon-Stratified and Diurnal Reliability of Level-3 Satellite Sea Surface Temperature
+> Products in the Northern Bay of Bengal.* (under review)
 
-Authors: Md. Ridwanul Banna Rifat, Mohammad Muslem Uddin, Nishat Anjum Farzin. Department of Oceanography, Faculty of Marine Sciences and Fisheries, University of Chittagong, Chattogram 4331, Bangladesh.
+**Paper 2** (four one-month-ahead methods, rolling origin 2015–2024, and two association tests)
+
+> Rifat, M.R.B., Uddin, M.M., Farzin, N.A. *Multi-Model Hindcast Skill of Coastal Sea Surface Temperature Along the Bangladesh Coast
+> and Its Association with Satellite Data Support.* (under review)
 
 ## What is in this repository
 
