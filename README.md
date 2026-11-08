@@ -42,7 +42,7 @@ GEBCO_2023 was planned for the bathymetry but its server could not be reached, s
 
 Python 3 with xarray, pandas, NumPy, SciPy, statsmodels, TensorFlow and Matplotlib. Pin the exact versions in `requirements.txt` before archiving. The SARIMA fits use the `SARIMAX` routine of statsmodels, so results can differ slightly between statsmodels versions.
 
-## How to run
+## How to run (`RUNNING.md`)
 
 1. Install the requirements and download the data listed above.
 2. Set the local data and output folders at the top of each script.
