@@ -62,6 +62,7 @@ Python 3 with xarray, pandas, NumPy, SciPy, statsmodels, TensorFlow and Matplotl
 
 ## Citation
 
+If you use this code or these results, please cite the archived version below and the related paper once published.
 Citation details for the code are in `CITATION.cff`. 
 
 ## License
