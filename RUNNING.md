@@ -1,5 +1,6 @@
-# NBoB satellite SST reliability and forecast skill: analysis code
+# NBoB satellite SST reliability and forecast skill: analysis code and run log
 
+Analysis code and run log for two manuscripts on satellite sea surface temperature (SST) along the Bangladesh coast: 
 Station coordinates and the LSTM set-up are taken unchanged from (Rifat et al. 2026) so that
 all results are comparable with the published forecasting work.
 
