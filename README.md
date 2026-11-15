@@ -5,12 +5,12 @@ Analysis code, frozen analysis plan and run log for two manuscripts on satellite
 **Paper 1** (accuracy, availability and consistency of three Level-3 products, 2018–2020)
 
 > Rifat, M.R.B., Uddin, M.M., Farzin, N.A. *Monsoon-Stratified and Diurnal Reliability of Level-3 Satellite Sea Surface Temperature
-> Products in the Northern Bay of Bengal.* (under review)
+> Products in the Northern Bay of Bengal.*
 
 **Paper 2** (four one-month-ahead methods, rolling origin 2015–2024, and two association tests)
 
 > Rifat, M.R.B., Uddin, M.M., Farzin, N.A. *Multi-Model Hindcast Skill of Coastal Sea Surface Temperature Along the Bangladesh Coast
-> and Its Association with Satellite Data Support.* (under review)
+> and Its Association with Satellite Data Support.*
 
 ## What is in this repository
 
@@ -62,7 +62,7 @@ Python 3 with xarray, pandas, NumPy, SciPy, statsmodels, TensorFlow and Matplotl
 
 ## Citation
 
-If you use this code or these results, please cite the archived version below and the related paper once published.
+If you use this code or these results, please cite the archived version below and the related paper.
 Citation details for the code are in `CITATION.cff`. 
 
 ## License
